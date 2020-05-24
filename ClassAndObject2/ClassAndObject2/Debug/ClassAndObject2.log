@@ -1,0 +1,14 @@
+﻿生成启动时间为 2020/5/24 18:22:03。
+     1>项目“G:\ClassAndObject2\ClassAndObject2\ClassAndObject2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>g:\classandobject2\classandobject2\test.cpp(880): warning C4715: “Date::operator-=”: 不是所有的控件路径都返回值
+       Link:
+         F:\VS\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ClassAndObject2\Debug\ClassAndObject2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\ClassAndObject2\Debug\ClassAndObject2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\ClassAndObject2\Debug\ClassAndObject2.lib" /MACHINE:X86 Debug\test.obj
+         ClassAndObject2.vcxproj -> G:\ClassAndObject2\Debug\ClassAndObject2.exe
+     1>已完成生成项目“G:\ClassAndObject2\ClassAndObject2\ClassAndObject2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.70
